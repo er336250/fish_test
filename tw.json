@@ -1,0 +1,1122 @@
+[
+  {
+    "fishType": 801,
+    "fishName": "小丑魚"
+  },
+  {
+    "fishType": 802,
+    "fishName": "珊瑚鳥"
+  },
+  {
+    "fishType": 803,
+    "fishName": "夢蝶(地)"
+  },
+  {
+    "fishType": 804,
+    "fishName": "夢蝶(水)"
+  },
+  {
+    "fishType": 805,
+    "fishName": "夢蝶(火)"
+  },
+  {
+    "fishType": 806,
+    "fishName": "夢蝶(風)"
+  },
+  {
+    "fishType": 807,
+    "fishName": "神仙魚"
+  },
+  {
+    "fishType": 808,
+    "fishName": "火焰蝙蝠"
+  },
+  {
+    "fishType": 809,
+    "fishName": "風靈子"
+  },
+  {
+    "fishType": 901,
+    "fishName": "魟魚"
+  },
+  {
+    "fishType": 902,
+    "fishName": "夜光烏賊"
+  },
+  {
+    "fishType": 903,
+    "fishName": "粉金魚"
+  },
+  {
+    "fishType": 904,
+    "fishName": "飛河豚"
+  },
+  {
+    "fishType": 905,
+    "fishName": "兇角魚"
+  },
+  {
+    "fishType": 906,
+    "fishName": "劇毒蛙"
+  },
+  {
+    "fishType": 907,
+    "fishName": "搖滾企鵝"
+  },
+  {
+    "fishType": 908,
+    "fishName": "寶石蜥蜴"
+  },
+  {
+    "fishType": 909,
+    "fishName": "風蛾"
+  },
+  {
+    "fishType": 1001,
+    "fishName": "星鯊"
+  },
+  {
+    "fishType": 1002,
+    "fishName": "羽鏝"
+  },
+  {
+    "fishType": 1003,
+    "fishName": "魟龍"
+  },
+  {
+    "fishType": 1004,
+    "fishName": "火岩鯊"
+  },
+  {
+    "fishType": 1005,
+    "fishName": "水精靈"
+  },
+  {
+    "fishType": 1006,
+    "fishName": "森精靈"
+  },
+  {
+    "fishType": 1007,
+    "fishName": "火精靈"
+  },
+  {
+    "fishType": 1008,
+    "fishName": "風精靈"
+  },
+  {
+    "fishType": 1601,
+    "fishName": "長尾魟"
+  },
+  {
+    "fishType": 1701,
+    "fishName": "劍旗魚"
+  },
+  {
+    "fishType": 1801,
+    "fishName": "錘頭鯊"
+  },
+  {
+    "fishType": 1901,
+    "fishName": "尖牙鯊"
+  },
+  {
+    "fishType": 2001,
+    "fishName": "虎王鯨"
+  },
+  {
+    "fishType": 2301,
+    "fishName": "哥吉鯊"
+  },
+  {
+    "fishType": 2401,
+    "fishName": "六角鯊"
+  },
+  {
+    "fishType": 2501,
+    "fishName": "骨槌鯊"
+  },
+  {
+    "fishType": 2601,
+    "fishName": "鱷龍鯊"
+  },
+  {
+    "fishType": 2701,
+    "fishName": "長鬚鯊"
+  },
+  {
+    "fishType": 2801,
+    "fishName": "龍龜鯊"
+  },
+  {
+    "fishType": 3501,
+    "fishName": "白蛇娘"
+  },
+  {
+    "fishType": 3601,
+    "fishName": "月餅龜"
+  },
+  {
+    "fishType": 3901,
+    "fishName": "金魚王"
+  },
+  {
+    "fishType": 4001,
+    "fishName": "棕海獺"
+  },
+  {
+    "fishType": 4101,
+    "fishName": "招財貓"
+  },
+  {
+    "fishType": 4301,
+    "fishName": "俏海豹"
+  },
+  {
+    "fishType": 4401,
+    "fishName": "萌海豚"
+  },
+  {
+    "fishType": 4501,
+    "fishName": "憨憨鴨"
+  },
+  {
+    "fishType": 5101,
+    "fishName": "魔鬼鯊"
+  },
+  {
+    "fishType": 5201,
+    "fishName": "星寶"
+  },
+  {
+    "fishType": 5301,
+    "fishName": "蛇龍鯊"
+  },
+  {
+    "fishType": 5401,
+    "fishName": "結晶鯊"
+  },
+  {
+    "fishType": 5501,
+    "fishName": "遺跡鯊"
+  },
+  {
+    "fishType": 5601,
+    "fishName": "破冰鯊"
+  },
+  {
+    "fishType": 5701,
+    "fishName": "熔火鯊"
+  },
+  {
+    "fishType": 5801,
+    "fishName": "黃金虎鯨"
+  },
+  {
+    "fishType": 5901,
+    "fishName": "黃金巨齒鯊"
+  },
+  {
+    "fishType": 6001,
+    "fishName": "黃金錘頭鯊"
+  },
+  {
+    "fishType": 6101,
+    "fishName": "黃金海龜"
+  },
+  {
+    "fishType": 6201,
+    "fishName": "黃金水母"
+  },
+  {
+    "fishType": 7301,
+    "fishName": "虎豹鯊"
+  },
+  {
+    "fishType": 7401,
+    "fishName": "浮游鯊"
+  },
+  {
+    "fishType": 7501,
+    "fishName": "酷繽鯊"
+  },
+  {
+    "fishType": 7601,
+    "fishName": "抹香鯨"
+  },
+  {
+    "fishType": 7701,
+    "fishName": "巨口鯊"
+  },
+  {
+    "fishType": 7801,
+    "fishName": "長嘴鯊"
+  },
+  {
+    "fishType": 7901,
+    "fishName": "殺人鯨"
+  },
+  {
+    "fishType": 8001,
+    "fishName": "鄧氏鯊"
+  },
+  {
+    "fishType": 8101,
+    "fishName": "魚龍鯊"
+  },
+  {
+    "fishType": 8201,
+    "fishName": "滄龍鯊"
+  },
+  {
+    "fishType": 8301,
+    "fishName": "長狗鯊"
+  },
+  {
+    "fishType": 8401,
+    "fishName": "鬥牛鯊"
+  },
+  {
+    "fishType": 8501,
+    "fishName": "巨象鯊"
+  },
+  {
+    "fishType": 8601,
+    "fishName": "紅包鯊"
+  },
+  {
+    "fishType": 8701,
+    "fishName": "蜥龍鯊"
+  },
+  {
+    "fishType": 8801,
+    "fishName": "螢光鯊"
+  },
+  {
+    "fishType": 8901,
+    "fishName": "鑽角鯊"
+  },
+  {
+    "fishType": 9101,
+    "fishName": "鎮海玄武"
+  },
+  {
+    "fishType": 9201,
+    "fishName": "灼焰鳳凰"
+  },
+  {
+    "fishType": 9301,
+    "fishName": "爆竹虎"
+  },
+  {
+    "fishType": 9401,
+    "fishName": "發財虎"
+  },
+  {
+    "fishType": 9501,
+    "fishName": "狼王鯊"
+  },
+  {
+    "fishType": 9601,
+    "fishName": "三頭鯊"
+  },
+  {
+    "fishType": 9701,
+    "fishName": "武者鯊"
+  },
+  {
+    "fishType": 9801,
+    "fishName": "浪客鯊"
+  },
+  {
+    "fishType": 9901,
+    "fishName": "梅杜鯊"
+  },
+  {
+    "fishType": 10001,
+    "fishName": "猛牛鯊"
+  },
+  {
+    "fishType": 10101,
+    "fishName": "雷神鯊"
+  },
+  {
+    "fishType": 10201,
+    "fishName": "風神鯊"
+  },
+  {
+    "fishType": 10301,
+    "fishName": "企鵝王"
+  },
+  {
+    "fishType": 10401,
+    "fishName": "快樂熊"
+  },
+  {
+    "fishType": 10501,
+    "fishName": "積木鯨"
+  },
+  {
+    "fishType": 10601,
+    "fishName": "哞海牛"
+  },
+  {
+    "fishType": 10701,
+    "fishName": "鴨嘴獸"
+  },
+  {
+    "fishType": 10801,
+    "fishName": "爆彈鯊"
+  },
+  {
+    "fishType": 10901,
+    "fishName": "岩石鯊"
+  },
+  {
+    "fishType": 11001,
+    "fishName": "幽光魚"
+  },
+  {
+    "fishType": 11201,
+    "fishName": "冰火魚"
+  },
+  {
+    "fishType": 11301,
+    "fishName": "蝠魟魚"
+  },
+  {
+    "fishType": 11401,
+    "fishName": "虎牙鯊"
+  },
+  {
+    "fishType": 11501,
+    "fishName": "刺鰭鯊"
+  },
+  {
+    "fishType": 11601,
+    "fishName": "長尾魟王"
+  },
+  {
+    "fishType": 11701,
+    "fishName": "劍旗魚王"
+  },
+  {
+    "fishType": 11801,
+    "fishName": "錘頭鯊王"
+  },
+  {
+    "fishType": 11901,
+    "fishName": "尖牙鯊王"
+  },
+  {
+    "fishType": 12001,
+    "fishName": "虎王鯨王"
+  },
+  {
+    "fishType": 12031,
+    "fishName": "寶石蟲"
+  },
+  {
+    "fishType": 12301,
+    "fishName": "哥吉鯊王"
+  },
+  {
+    "fishType": 12401,
+    "fishName": "六角鯊王"
+  },
+  {
+    "fishType": 12501,
+    "fishName": "骨槌鯊王"
+  },
+  {
+    "fishType": 12601,
+    "fishName": "鱷龍鯊王"
+  },
+  {
+    "fishType": 12701,
+    "fishName": "長鬚鯊王"
+  },
+  {
+    "fishType": 12801,
+    "fishName": "龍龜鯊王"
+  },
+  {
+    "fishType": 12901,
+    "fishName": "美殼蟹"
+  },
+  {
+    "fishType": 13001,
+    "fishName": "角蛞蝓"
+  },
+  {
+    "fishType": 13011,
+    "fishName": "牛頭人"
+  },
+  {
+    "fishType": 13021,
+    "fishName": "白虎"
+  },
+  {
+    "fishType": 13031,
+    "fishName": "麒麟"
+  },
+  {
+    "fishType": 13041,
+    "fishName": "烈焰豬"
+  },
+  {
+    "fishType": 13051,
+    "fishName": "黑熊精"
+  },
+  {
+    "fishType": 13101,
+    "fishName": "滑翔魟"
+  },
+  {
+    "fishType": 13201,
+    "fishName": "大嘴鱷"
+  },
+  {
+    "fishType": 13301,
+    "fishName": "懶水豚"
+  },
+  {
+    "fishType": 13401,
+    "fishName": "小熊貓"
+  },
+  {
+    "fishType": 13501,
+    "fishName": "胖河馬"
+  },
+  {
+    "fishType": 13601,
+    "fishName": "科技魟"
+  },
+  {
+    "fishType": 13701,
+    "fishName": "刺蝟鼠"
+  },
+  {
+    "fishType": 13801,
+    "fishName": "熊武極"
+  },
+  {
+    "fishType": 13901,
+    "fishName": "彩礁龍"
+  },
+  {
+    "fishType": 14001,
+    "fishName": "冰斧鯊"
+  },
+  {
+    "fishType": 14011,
+    "fishName": "悟空"
+  },
+  {
+    "fishType": 14021,
+    "fishName": "唐三藏"
+  },
+  {
+    "fishType": 14031,
+    "fishName": "八戒"
+  },
+  {
+    "fishType": 14041,
+    "fishName": "沙僧"
+  },
+  {
+    "fishType": 14051,
+    "fishName": "牛魔王"
+  },
+  {
+    "fishType": 14071,
+    "fishName": "白龍馬"
+  },
+  {
+    "fishType": 14101,
+    "fishName": "薑母鴨"
+  },
+  {
+    "fishType": 14201,
+    "fishName": "紳士蛙"
+  },
+  {
+    "fishType": 14301,
+    "fishName": "開運狸"
+  },
+  {
+    "fishType": 14401,
+    "fishName": "聖代狗"
+  },
+  {
+    "fishType": 14501,
+    "fishName": "珊瑚蜥"
+  },
+  {
+    "fishType": 14601,
+    "fishName": "豬漁夫"
+  },
+  {
+    "fishType": 14701,
+    "fishName": "飛天兔"
+  },
+  {
+    "fishType": 14801,
+    "fishName": "綠晶龜"
+  },
+  {
+    "fishType": 14901,
+    "fishName": "眠柴犬"
+  },
+  {
+    "fishType": 15011,
+    "fishName": "芭蕉扇"
+  },
+  {
+    "fishType": 15021,
+    "fishName": "飛頭"
+  },
+  {
+    "fishType": 15031,
+    "fishName": "葫蘆"
+  },
+  {
+    "fishType": 15041,
+    "fishName": "蛙人"
+  },
+  {
+    "fishType": 15051,
+    "fishName": "貝殼"
+  },
+  {
+    "fishType": 15001,
+    "fishName": "猛海象"
+  },
+  {
+    "fishType": 15101,
+    "fishName": "灰樹懶"
+  },
+  {
+    "fishType": 15201,
+    "fishName": "漂浮象"
+  },
+  {
+    "fishType": 15301,
+    "fishName": "花蠑螈"
+  },
+  {
+    "fishType": 15401,
+    "fishName": "粉紅鶴"
+  },
+  {
+    "fishType": 15501,
+    "fishName": "機電蜥"
+  },
+  {
+    "fishType": 15601,
+    "fishName": "刺角鯨"
+  },
+  {
+    "fishType": 15701,
+    "fishName": "深海蝠"
+  },
+  {
+    "fishType": 15801,
+    "fishName": "龐克魚"
+  },
+  {
+    "fishType": 15901,
+    "fishName": "紅龜粿"
+  },
+  {
+    "fishType": 16001,
+    "fishName": "蚌殼精"
+  },
+  {
+    "fishType": 16101,
+    "fishName": "背刀魚"
+  },
+  {
+    "fishType": 16201,
+    "fishName": "海龍王"
+  },
+  {
+    "fishType": 16301,
+    "fishName": "冥海獸"
+  },
+  {
+    "fishType": 16401,
+    "fishName": "蒼角蝦"
+  },
+  {
+    "fishType": 16501,
+    "fishName": "胖海豹"
+  },
+  {
+    "fishType": 16601,
+    "fishName": "福氣牛"
+  },
+  {
+    "fishType": 16701,
+    "fishName": "拉花熊"
+  },
+  {
+    "fishType": 16801,
+    "fishName": "霸王鯊"
+  },
+  {
+    "fishType": 16901,
+    "fishName": "海盜章"
+  },
+  {
+    "fishType": 17001,
+    "fishName": "炎海兔"
+  },
+  {
+    "fishType": 17101,
+    "fishName": "寶石狐"
+  },
+  {
+    "fishType": 17201,
+    "fishName": "蜜瓜龜"
+  },
+  {
+    "fishType": 17301,
+    "fishName": "虎豹鯊王"
+  },
+  {
+    "fishType": 17401,
+    "fishName": "浮游鯊王"
+  },
+  {
+    "fishType": 17501,
+    "fishName": "酷繽鯊王"
+  },
+  {
+    "fishType": 17601,
+    "fishName": "抹香鯨王"
+  },
+  {
+    "fishType": 17701,
+    "fishName": "盾鱗鱘"
+  },
+  {
+    "fishType": 17801,
+    "fishName": "花斑魟"
+  },
+  {
+    "fishType": 17901,
+    "fishName": "水虎鯧"
+  },
+  {
+    "fishType": 18001,
+    "fishName": "海鬣蜥"
+  },
+  {
+    "fishType": 18101,
+    "fishName": "錘頭鯊"
+  },
+  {
+    "fishType": 18201,
+    "fishName": "星點鯊"
+  },
+  {
+    "fishType": 18301,
+    "fishName": "逆戟鯨"
+  },
+  {
+    "fishType": 18401,
+    "fishName": "晶牙象"
+  },
+  {
+    "fishType": 18501,
+    "fishName": "帝皇魷"
+  },
+  {
+    "fishType": 18601,
+    "fishName": "燈籠魚"
+  },
+  {
+    "fishType": 18701,
+    "fishName": "骨甲魚"
+  },
+  {
+    "fishType": 18801,
+    "fishName": "腔棘魚"
+  },
+  {
+    "fishType": 18901,
+    "fishName": "蝶海豚"
+  },
+  {
+    "fishType": 19001,
+    "fishName": "麒海豹"
+  },
+  {
+    "fishType": 19101,
+    "fishName": "彩殼蟹"
+  },
+  {
+    "fishType": 19201,
+    "fishName": "琵琶魚"
+  },
+  {
+    "fishType": 19301,
+    "fishName": "刺螯蝦"
+  },
+  {
+    "fishType": 19401,
+    "fishName": "巨齒魚"
+  },
+  {
+    "fishType": 19501,
+    "fishName": "鬼頭刀"
+  },
+  {
+    "fishType": 19601,
+    "fishName": "巨顎魚"
+  },
+  {
+    "fishType": 19701,
+    "fishName": "變異鯊"
+  },
+  {
+    "fishType": 19801,
+    "fishName": "兔寶船"
+  },
+  {
+    "fishType": 19901,
+    "fishName": "龍門鯉"
+  },
+  {
+    "fishType": 20001,
+    "fishName": "獄炎鯊"
+  },
+  {
+    "fishType": 20101,
+    "fishName": "超人鯊"
+  },
+  {
+    "fishType": 20201,
+    "fishName": "應援魷"
+  },
+  {
+    "fishType": 20401,
+    "fishName": "大眼猴"
+  },
+  {
+    "fishType": 20501,
+    "fishName": "穿山龍"
+  },
+  {
+    "fishType": 20601,
+    "fishName": "過江龍"
+  },
+  {
+    "fishType": 20701,
+    "fishName": "乘雲龍"
+  },
+  {
+    "fishType": 20801,
+    "fishName": "地皇鯰"
+  },
+  {
+    "fishType": 20901,
+    "fishName": "香包虎"
+  },
+  {
+    "fishType": 21001,
+    "fishName": "天使鯨"
+  },
+  {
+    "fishType": 21101,
+    "fishName": "甲面鯊"
+  },
+  {
+    "fishType": 21201,
+    "fishName": "牛角蟹"
+  },
+  {
+    "fishType": 21301,
+    "fishName": "太空熊"
+  },
+  {
+    "fishType": 21401,
+    "fishName": "彈簧狗"
+  },
+  {
+    "fishType": 21501,
+    "fishName": "堅鎧鯊"
+  },
+  {
+    "fishType": 21601,
+    "fishName": "煉獄龜"
+  },
+  {
+    "fishType": 21701,
+    "fishName": "卷角羊"
+  },
+  {
+    "fishType": 21801,
+    "fishName": "飛天鼠"
+  },
+  {
+    "fishType": 21901,
+    "fishName": "海灘鼬"
+  },
+  {
+    "fishType": 22001,
+    "fishName": "行雷龍"
+  },
+  {
+    "fishType": 22701,
+    "fishName": "降風龍"
+  },
+  {
+    "fishType": 22801,
+    "fishName": "昇龍序"
+  },
+  {
+    "fishType": 23001,
+    "fishName": "冰果鴨"
+  },
+  {
+    "fishType": 23401,
+    "fishName": "飛行猿"
+  },
+  {
+    "fishType": 23501,
+    "fishName": "暴走熊"
+  },
+  {
+    "fishType": 23701,
+    "fishName": "財神爺"
+  },
+  {
+    "fishType": 23801,
+    "fishName": "鳳凰寶刀"
+  },
+  {
+    "fishType": 23901,
+    "fishName": "河豚王"
+  },
+  {
+    "fishType": 24001,
+    "fishName": "神燈精靈"
+  },
+  {
+    "fishType": 24101,
+    "fishName": "兔吉萊"
+  },
+  {
+    "fishType": 24201,
+    "fishName": "淘金鼠"
+  },
+  {
+    "fishType": 24301,
+    "fishName": "企鵝車長"
+  },
+  {
+    "fishType": 24401,
+    "fishName": "水晶堡壘"
+  },
+  {
+    "fishType": 24501,
+    "fishName": "美人魚"
+  },
+  {
+    "fishType": 24601,
+    "fishName": "雷山龍"
+  },
+  {
+    "fishType": 24701,
+    "fishName": "煉獄角龍"
+  },
+  {
+    "fishType": 24801,
+    "fishName": "霸王蛛蟹"
+  },
+  {
+    "fishType": 24901,
+    "fishName": "幽冥狂蝠"
+  },
+  {
+    "fishType": 25001,
+    "fishName": "酷寒巨鯨"
+  },
+  {
+    "fishType": 25401,
+    "fishName": "鑽頭蟹"
+  },
+  {
+    "fishType": 25402,
+    "fishName": "火山蟹"
+  },
+  {
+    "fishType": 25403,
+    "fishName": "導彈蟹"
+  },
+  {
+    "fishType": 25404,
+    "fishName": "鋸齒蟹"
+  },
+  {
+    "fishType": 25407,
+    "fishName": "極地潛艇"
+  },
+  {
+    "fishType": 25408,
+    "fishName": "巨角潛艇"
+  },
+  {
+    "fishType": 25409,
+    "fishName": "波動潛艇"
+  },
+  {
+    "fishType": 25410,
+    "fishName": "霸王潛艇"
+  },
+  {
+    "fishType": 25515,
+    "fishName": "天使魚"
+  },
+  {
+    "fishType": 65535,
+    "fishName": "蟠桃小瑪莉"
+  },
+  {
+    "fishType": 120001,
+    "fishName": "刀鋒鯊"
+  },
+  {
+    "fishType": 120101,
+    "fishName": "冰晶蠍"
+  },
+  {
+    "fishType": 120201,
+    "fishName": "仙燈魚"
+  },
+  {
+    "fishType": 120301,
+    "fishName": "小石獅"
+  },
+  {
+    "fishType": 120401,
+    "fishName": "晚安鴞"
+  },
+  {
+    "fishType": 121401,
+    "fishName": "海哞仔"
+  },
+  {
+    "fishType": 121501,
+    "fishName": "鬼武鯊"
+  },
+  {
+    "fishType": 121601,
+    "fishName": "刃槌鱷"
+  },
+  {
+    "fishType": 121801,
+    "fishName": "漢堡蟹"
+  },
+  {
+    "fishType": 121901,
+    "fishName": "瘋瘋魚"
+  },
+  {
+    "fishType": 122401,
+    "fishName": "波蘿龜"
+  },
+  {
+    "fishType": 122501,
+    "fishName": "德古鯊"
+  },
+  {
+    "fishType": 122601,
+    "fishName": "崩鎚獸"
+  },
+  {
+    "fishType": 130001,
+    "fishName": "天官鯨"
+  },
+  {
+    "fishType": 130101,
+    "fishName": "貔貅"
+  },
+  {
+    "fishType": 130201,
+    "fishName": "大橘利"
+  },
+  {
+    "fishType": 130301,
+    "fishName": "渡假熊"
+  },
+  {
+    "fishType": 130401,
+    "fishName": "符文龜"
+  },
+  {
+    "fishType": 130501,
+    "fishName": "漢堡蟹"
+  },
+  {
+    "fishType": 130601,
+    "fishName": "海哞仔"
+  },
+  {
+    "fishType": 130701,
+    "fishName": "盔海馬"
+  },
+  {
+    "fishType": 130801,
+    "fishName": "巨鉗蝦"
+  },
+  {
+    "fishType": 130901,
+    "fishName": "夢魔魟"
+  },
+  {
+    "fishType": 131001,
+    "fishName": "打火象"
+  },
+  {
+    "fishType": 131101,
+    "fishName": "飛行猿"
+  },
+  {
+    "fishType": 131201,
+    "fishName": "鍊金貓"
+  },
+  {
+    "fishType": 131301,
+    "fishName": "九尾狐"
+  },
+  {
+    "fishType": 131401,
+    "fishName": "年獸"
+  },
+  {
+    "fishType": 131501,
+    "fishName": "蜥蜴警長"
+  },
+  {
+    "fishType": 131601,
+    "fishName": "南瓜王"
+  },
+  {
+    "fishType": 131701,
+    "fishName": "啤酒桶"
+  },
+  {
+    "fishType": 131801,
+    "fishName": "至尊龍王"
+  },
+  {
+    "fishType": 131901,
+    "fishName": "烈爪虎"
+  },
+  {
+    "fishType": 132001,
+    "fishName": "星空鯊"
+  }
+]
